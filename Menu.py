@@ -5,4 +5,4 @@ menu = "1. Introdueix una frase \n2. Elimina les vocals \n3. Elimina les consona
 while True:
     sel = int(input(menu))
     if sel == 6:
-        exit()
+        break
